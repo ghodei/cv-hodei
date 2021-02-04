@@ -55,35 +55,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi! My name is Hodei and I completed a training program in electronics and worked six years successfully as a maintenance 
+      technician at dbus (the public transport company of San Sebastian). My work included the installation and maintenance of 
+      electric cables and the installation and repair of electronic assemblies. In addition, I have obtained knowledge in all 
+      major operating systems (i.e. Windows, Mac OS and GNU / Linux).
+      An essential part of my duties was to check and repair all the elements of the audiovisual system integrated into the buses 
+      of the company. Other tasks were to perform preventive maintenance on the local server and fix any issues related to that.
+
+      I have worked for two years in Germany as an IT support specialist. During this time, I have developed my skills to deal with
+      customers and solve their problems as efficiently as possible. In my last company, I had, in addition to the normal activities
+      of a helpdesk, the chance to test new technologies for improving the productivity of the department. One such project a new 
+      inventory and ticket system and its deployment.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Technician in Development of Electronic Products
+      university: IEFPS Don Bosco
+      time: 2004 - 2006
+      
+    - degree: Grammar School with a Focus on Social Sciences
+      university: IES Usandizaga-Peñaﬂorida-Amara
+      time: 2001 - 2004
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
